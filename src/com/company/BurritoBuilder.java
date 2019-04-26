@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.*;
 
-public class Main {
+public class BurritoBuilder {
 
 //    static String picker(ArrayList arrayx) {
 //        //ArrayList<String> arrayx = new ArrayList<>();
